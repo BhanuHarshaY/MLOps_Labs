@@ -1,0 +1,34 @@
+=======================================================
+   MALL CUSTOMER SEGMENTATION — CLUSTER REPORT
+=======================================================
+  Optimal k (Elbow Method) : 4
+  Total customers          : 200
+=======================================================
+
+  Cluster 0  (65 customers)
+    Avg Age            : 54.0
+    Avg Annual Income  : $47.7k
+    Avg Spending Score : 40.0
+    Age Range          : 35 - 70
+
+  Cluster 1  (40 customers)
+    Avg Age            : 32.9
+    Avg Annual Income  : $86.1k
+    Avg Spending Score : 81.5
+    Age Range          : 27 - 40
+
+  Cluster 2  (57 customers)
+    Avg Age            : 25.4
+    Avg Annual Income  : $40.0k
+    Avg Spending Score : 60.3
+    Age Range          : 18 - 38
+
+  Cluster 3  (38 customers)
+    Avg Age            : 39.4
+    Avg Annual Income  : $86.5k
+    Avg Spending Score : 19.6
+    Age Range          : 19 - 59
+
+=======================================================
+  Elbow curve saved to: dags/outputs/elbow_curve.png
+=======================================================
