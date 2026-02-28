@@ -1,5 +1,6 @@
 # Airflow Lab 1 - Mall Customer Segmentation
-
+Author: Bhanu Harsha Y
+---
 An Apache Airflow pipeline that automates K-Means clustering on the Mall Customers dataset to determine the optimal number of customer segments using the **Elbow Method**. The pipeline runs entirely inside Docker — no local Python installation required.
 
 ---
