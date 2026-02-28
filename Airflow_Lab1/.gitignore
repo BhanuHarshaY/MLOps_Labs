@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+logs/
+plugins/
+config/
+dags/model/model.sav
+docker-compose.yaml
