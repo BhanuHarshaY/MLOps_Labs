@@ -1,0 +1,4 @@
+mlflow_lab1/mlflow_lab1_env/
+mlflow_lab1/mlruns/
+mlflow_lab1/__pycache__/
+mlflow_lab1/mlflow.db
