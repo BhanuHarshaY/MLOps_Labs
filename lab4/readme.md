@@ -1,4 +1,5 @@
 # MLflow Lab 1 - Experiment Tracking with MLflow
+## Author: Bhanu Harsha Y
 
 ## Overview
 
@@ -10,7 +11,7 @@ This lab demonstrates fundamental MLOps concepts using **MLflow** for experiment
 - Decision Tree Regressor (starter, serving notebooks)
 - Ridge Regression (linear_regression notebook)
 
-> **Note:** The professor's reference implementation uses Iris/Wine datasets. This submission uses the California Housing dataset with different models (Decision Tree, Ridge Regression) to demonstrate independent understanding of MLflow concepts.
+> **Note:**  I used the California Housing dataset with different models (Decision Tree, Ridge Regression) to demonstrate independent understanding of MLflow concepts.
 
 ## Project Structure
 
@@ -113,6 +114,4 @@ Open http://127.0.0.1:5001 in your browser.
 | Model serving | serving.ipynb | `mlflow models serve` |
 | Custom artifacts | serving.py | `mlflow.log_artifact()` |
 
-## Author
 
-Bhanu Harsha Yaddanapudi
